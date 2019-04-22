@@ -10,6 +10,6 @@
 data/*.csv
 data/*.csv
 bert_output2/
-multi_*/
+multi_*/*.ckpt.*
 __pycache__/
 
